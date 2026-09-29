@@ -1,0 +1,9 @@
+{
+    "vocab_size": 49,
+    "embedding_dim": 128,
+    "lstm_units": 128,
+    "max_question_length": 5,
+    "max_answer_length": 11,
+    "start_token": 4,
+    "end_token": 5
+}
